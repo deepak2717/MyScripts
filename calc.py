@@ -7,7 +7,7 @@ def subtract(x,y,z):
 def multiply(x,y):
     pass
 
-def divide(x,y):
+def divide(x,y,z):
     pass
 
 def square(x,y):
